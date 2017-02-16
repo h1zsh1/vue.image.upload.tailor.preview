@@ -15,7 +15,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+该组件是基于vue的一个支持图片上传前的预览和裁剪的vue组件
 
-
-tailor preview
+参考的资料：https://github.com/Vanthink-UED/vue-core-image-upload
